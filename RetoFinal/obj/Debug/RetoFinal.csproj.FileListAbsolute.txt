@@ -1,0 +1,7 @@
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\bin\Debug\RetoFinal.exe.config
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\bin\Debug\RetoFinal.exe
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\bin\Debug\RetoFinal.pdb
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\obj\Debug\RetoFinal.csprojAssemblyReference.cache
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\obj\Debug\RetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\obj\Debug\RetoFinal.exe
+C:\Users\Samu\Documents\Ejercicios C Sharp Roy\RetoFinal\RetoFinal\obj\Debug\RetoFinal.pdb
